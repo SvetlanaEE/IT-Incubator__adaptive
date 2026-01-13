@@ -152,7 +152,6 @@ body {
 }
 
 .footer__link {
-  margin-left: 1rem;
   border-radius: 5px;
 }
 
@@ -227,9 +226,6 @@ body {
 
   .nav__container {
     padding: 0;
-  }
-.footer__link {
-    margin-left: 0;
   }
   .footer__link:hover {
     background-color: transparent;
@@ -321,6 +317,7 @@ body {
     box-shadow: none;
   }
 }
+
 
 
 
