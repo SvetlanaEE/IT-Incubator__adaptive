@@ -191,9 +191,8 @@ body {
 
   .main__container {
     display: grid;
-
     grid-template-columns: repeat(2, 1fr);
-
+    overflow-x: auto;
     gap: 18px;
     margin-bottom: 50px;
   }
@@ -320,4 +319,5 @@ body {
     box-shadow: none;
   }
 }
+
 
