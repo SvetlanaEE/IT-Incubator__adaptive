@@ -228,7 +228,9 @@ body {
   .nav__container {
     padding: 0;
   }
-
+.footer__link {
+    margin-left: 0;
+  }
   .footer__link:hover {
     background-color: transparent;
     color: #fff;
@@ -319,5 +321,6 @@ body {
     box-shadow: none;
   }
 }
+
 
 
