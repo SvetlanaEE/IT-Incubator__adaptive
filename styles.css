@@ -225,6 +225,17 @@ body {
   .article__desc_bold {
     font-weight: 400;
   }
+
+  .nav__container {
+    padding: 0;
+  }
+
+  .footer__link:hover {
+    background-color: transparent;
+    color: #fff;
+    transform: none;
+    box-shadow: none;
+  }
 }
 
 /*Адаптив для телефона */
@@ -298,4 +309,15 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
+  .nav__container {
+    padding: 10px;
+  }
+
+  .footer__link:hover {
+    background-color: transparent;
+    color: #fff;
+    transform: none;
+    box-shadow: none;
+  }
 }
+
