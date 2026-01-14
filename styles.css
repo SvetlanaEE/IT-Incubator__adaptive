@@ -237,7 +237,7 @@ body {
 
 /*Адаптив для телефона */
 
-@media (max-width: 360px) {
+@media (max-width: 480px) {
   .container {
     max-width: 330px;
   }
@@ -317,6 +317,7 @@ body {
     box-shadow: none;
   }
 }
+
 
 
 
